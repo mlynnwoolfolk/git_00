@@ -17,56 +17,28 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 “What may I do?” at length I cried,
 
+
 Tired of the painful task.
 
 The fairy quietly replied,
 
+
 And said, “You must not ask.”
+ 
+“Rules and Regulations,” in addition to commenting upon correctness in writing, also contains remonstrations. 
+It refers to the problem of stammering, which plagued Dodgson throughout his life, emphasizing his shyness and becoming a major factor when he considered acceptance of any public-speaking engagements:
 
-
-“Rules and Regulations,” in addition to commenting upon correctness in writing, also contains remonstrations. It refers to the problem of stammering, which plagued Dodgson throughout his life, emphasizing his shyness and becoming a major factor when he considered acceptance of any public-speaking engagements:
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-Two roads diverged in a yellow wood,  
-And sorry I could not travel both  
-And be one traveler, long I stood  
-And looked down one as far as I could  
-To where it bent in the undergrowth;  
-
-Then took the other, as just as fair,   
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
-"The sun was shining on the sea,  
-      Shining with all his might:  
-He did his very best to make  
-      The billows smooth and bright —  
-And this was odd, because it was  
-      The middle of the night.  
 
-The moon was shining sulkily,  
-      Because she thought the sun  
-Had got no business to be there  
-      After the day was done —    
-"It's very rude of him," she said,    
-      "To come and spoil the fun."    
+
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
-Some men never think of it.   
-You did. You’d come along   
-And say you’d nearly brought me flowers   
-But something had gone wrong.  
 
-The shop was closed. Or you had doubts —   
-The sort that minds like ours   
-Dream up incessantly. You thought   
-I might not want your flowers.  
-
-It made me smile and hug you then.  
-Now I can only smile.  
-But, look, the flowers you nearly brought   
-Have lasted all this while.  
 
 
